@@ -9,4 +9,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: Copy To Branches Action
-        uses: planetoftheweb/master@v1
+        uses: planetoftheweb/master@v1.2
